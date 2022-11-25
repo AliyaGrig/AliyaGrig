@@ -39,10 +39,6 @@ You can click the Preview link to take a look at your changes.
 
 
 
-<a href="https://medium.com/@kashif-mehmood-km" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@kashif-mehmood-km" height="30" width="40" /></a>
-
-
-
 #### You can talk with me about:
 
 <p align="left">
