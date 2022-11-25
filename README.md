@@ -22,7 +22,7 @@ Aliya is doing research in AGI and consciousness, creating the first conscious A
 AliyaGrig/AliyaGrig is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-
+**You can contact me:**
 <!--
 [![Site Badge](https://img.shields.io/badge/%20-site%20pessoal-blueviolet)](https://site/)
 -->
