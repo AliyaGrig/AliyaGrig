@@ -40,7 +40,7 @@ You can click the Preview link to take a look at your changes.
 <p align="left">
 
 <a href="#">
-      <img alt="Neuroscience" src="https://img.shields.io/badge/Neuroscience-5659EB.svg?style=for-the-badge" />
+      <img alt="Neuroscience" src="https://img.shields.io/badge/Neuroscience-darkgreen.svg?style=for-the-badge" />
 </a>
 <a href="#">
       <img alt="AGI" src="https://img.shields.io/badge/AGI-darkgreen.svg?style=for-the-badge" />
