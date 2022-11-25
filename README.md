@@ -1,8 +1,22 @@
-- 👋 Hi, I’m @AliyaGrig
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+**Aliya Grig is a Founder, CEO of Evolwe, The Cosmos City.
+Writer, space visionary, innovator, and tech entrepreneur.**
+
+Aliya has a 14-year background in hardware tech and urban development. Aliya
+successfully launched and sold two hardware startups - technology for creating solid
+oxide fuel cells, and aluminum scandium alloy for the aerospace industry - raising $22
+M for these projects with key customers - Boeing, Bloom Energy, Mitsubishi.
+
+Two of the space tech startups were successfully sold to strategic investors. Aliya’s
+projects received awards from ESA (European Space Agency), CDL (Creative
+Destruction Lab), and Starburst (as an innovative startup for space mobility). Aliya
+participated as a space habitations expert in NASA’s competition to construct a Mars
+base in 2017. Aliya was a mentor in WomeInTech (the largest EU community), is a
+mentor at the St Petersburg State University School of Management, and a guest
+Professor for Marketing in the Moscow Higher School of Economics.
+
+Aliya was listed as one of the Top 100 Young Entrepreneurs in Europe by Forbes
+magazine and the Top 100 women entrepreneurs in AI and Big data by Leta Capital.
+Aliya is doing research in AGI and consciousness, creating the first conscious AI.
 
 <!---
 AliyaGrig/AliyaGrig is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
