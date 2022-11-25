@@ -32,3 +32,27 @@ You can click the Preview link to take a look at your changes.
 <a href="https://www.linkedin.com/in/aliyagrig/">
       <img alt="Aliya Grig" src="https://img.shields.io/badge/-Aliya%20Grig-5659EB?style=for-the-badge&logo=Linkedin&logoColor=white" />
 </a>
+
+
+
+#### You can talk with me about:
+
+<p align="left">
+
+<a href="#">
+      <img alt="Neuroscience" src="https://img.shields.io/badge/Neuroscience-gray.svg?style=for-the-badge" />
+</a>
+<a href="#">
+      <img alt="AGI" src="https://img.shields.io/badge/AGI-gray.svg?style=for-the-badge" />
+</a>
+<a href="#">
+      <img alt="AI" src="https://img.shields.io/badge/AI-gray.svg?style=for-the-badge" />
+</a>
+<a href="#">
+      <img alt="Startups" src="https://img.shields.io/badge/Startups-gray.svg?style=for-the-badge" />
+</a>
+<a href="#">
+      <img alt="APIs Restful" src="https://img.shields.io/badge/APIs%20Restful-gray.svg?style=for-the-badge" />
+</a>
+</p>
+
