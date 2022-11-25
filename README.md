@@ -27,3 +27,7 @@ You can click the Preview link to take a look at your changes.
 -->
 <a href="https://github.com/AliyaGrig">
       <img alt="Github Badge" src="https://img.shields.io/badge/-Github-5659EB?style=for-the-badge&logo=Github&logoColor=white&link=https://github.com/AliyaGrig" />
+</a>
+<a href="[https://www.linkedin.com/in/carlos-miguel-380413197](https://www.linkedin.com/in/aliyagrig/)">
+      <img alt="Aliya Grig" src="https://img.shields.io/badge/-Aliya%20Grig-5659EB?style=for-the-badge&logo=Linkedin&logoColor=white" />
+</a>
