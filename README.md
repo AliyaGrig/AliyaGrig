@@ -49,10 +49,7 @@ You can click the Preview link to take a look at your changes.
       <img alt="AI" src="https://img.shields.io/badge/AI-gray.svg?style=for-the-badge" />
 </a>
 <a href="#">
-      <img alt="Startups" src="https://img.shields.io/badge/Startups-gray.svg?style=for-the-badge" />
-</a>
-<a href="#">
-      <img alt="APIs Restful" src="https://img.shields.io/badge/APIs%20Restful-gray.svg?style=for-the-badge" />
-</a>
+      <img alt="Startups" src="https://img.shields.io/badge/Startups-red.svg?style=for-the-badge" />
+
 </p>
 
