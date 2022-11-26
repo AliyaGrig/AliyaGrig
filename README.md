@@ -39,7 +39,7 @@ You can click the Preview link to take a look at your changes.
 
 
 
-#### You can talk with me about:
+#### Let's talk about:
 
 <p align="left">
 
@@ -54,6 +54,10 @@ You can click the Preview link to take a look at your changes.
 </a>
 <a href="#">
       <img alt="Startups" src="https://img.shields.io/badge/Startups-darkgreen.svg?style=for-the-badge" />
+      
+</a>
+<a href="#">
+      <img alt="Space" src="https://img.shields.io/badge/Space-darkgreen.svg?style=for-the-badge" />
 
 </p>
 
