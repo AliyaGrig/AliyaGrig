@@ -18,7 +18,6 @@ Aliya was listed as one of the Top 100 Young Entrepreneurs in Europe by Forbes
 magazine and the Top 100 women entrepreneurs in AI and Big data by Leta Capital.
 Aliya is doing research in AGI and consciousness, creating the first conscious AI.
 
-TEST TEST
 
 <!---
 AliyaGrig/AliyaGrig is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
